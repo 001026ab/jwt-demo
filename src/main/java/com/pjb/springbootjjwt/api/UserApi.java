@@ -21,7 +21,6 @@ public class UserApi {
     @Autowired
     TokenService tokenService;
 
-
     @PassToken
     //登录
     @PostMapping("/login")
