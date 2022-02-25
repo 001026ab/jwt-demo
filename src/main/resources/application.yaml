@@ -6,6 +6,6 @@ spring:
     password: ebid$2018
 mybatis:
   config-location: classpath:mybatis.xml
-debug: true
+#debug: true
 server:
   port: 8888
